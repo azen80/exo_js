@@ -1,8 +1,8 @@
-var nb
-nb = prompt("Saisissez un nombre :")
-if (nb%2==0) {
-    alert("Ce nombre est pair.")
+var age
+age = prompt("Saisissez votre âge :")
+if (age>=18) {
+    alert("Vous avez " + age + " ans et êtes donc majeur")
 }
 else {
-    alert("Ce nombre est impair.")
+    alert("Vous avez " + age + " ans et êtes donc mineur")
 }
