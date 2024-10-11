@@ -113,5 +113,6 @@ alert(resultat);
 */
 
 
-// Exercice 5 - Nombre de voyelles
+// Exercice 5 - Nombre de voyelles, pas réussi
+
 
